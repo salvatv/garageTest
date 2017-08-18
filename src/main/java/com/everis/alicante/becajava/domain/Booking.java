@@ -4,7 +4,7 @@ import java.io.Serializable;
 import javax.persistence.*;
 import java.util.Date;
 
-
+//HOLA K TAL
 /**
  * The persistent class for the booking database table.
  * 
