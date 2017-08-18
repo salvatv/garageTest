@@ -5,6 +5,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 //HOLA K TAL
+//ES SHIFT TIO
 /**
  * The persistent class for the booking database table.
  * 
